@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## React Table
 Making a react table project to prepare for onsite data manipulation of customer details.
+Still a working project as I mess about with different functions/props/etc.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
