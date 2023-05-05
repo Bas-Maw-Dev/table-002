@@ -24,7 +24,7 @@ function BasicTable() {
                       {column.render('Header')}
                       <button>
                         <span>
-                        {column.isSortedDesc ? ' up' : ' down'}
+                        {column.isSortedDesc ? ' 🔽' : ' 🔼'}
                         </span>
                         
                       </button>
