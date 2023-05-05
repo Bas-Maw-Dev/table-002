@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## React Table
+Making a react table project to prepare for onsite data manipulation of customer details.
 ## Available Scripts
 
 In the project directory, you can run:
